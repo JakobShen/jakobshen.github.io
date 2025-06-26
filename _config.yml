@@ -22,14 +22,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_6428.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  avatar           : "pp.png"
+  name             : "Jakob Shen"
+  pronouns         : "he/his"  
+  bio              : "Student"
+  location         : "Germany"
+  employer         : "LMU Munich & Generali Group"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "wshen3033@gmail.com" 
 
   # Academic websites
   academia         : # URL
